@@ -1,0 +1,17 @@
+textarea
+{
+	width:450px!important;
+	
+}
+input
+{
+	width:450px!important;
+	
+}
+select
+{
+	    height: 38px;
+    width: 101px;
+    background: #0069D9;
+    color: white;
+}
